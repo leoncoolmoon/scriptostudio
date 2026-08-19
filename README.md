@@ -7,7 +7,7 @@
 Program embedded devices with natural language. No firmware updates required.
 </h4>
 <p align="center">
-  <a href="https://scriptostudio.com/app/">
+  <a href="https://esp32.click.us.kg/app/">
     <img src="https://img.shields.io/badge/🚀_Launch_App-scriptostudio.com/app-6366f1?style=for-the-badge" alt="Launch ScriptO Studio" />
   </a>
 </p>
